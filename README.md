@@ -18,12 +18,14 @@ Table 1. Accuracy by Chart Type with Bootstrapped 95% CI
 ![Table 1](img/T1.png)
 
 Graph 1
+
 ![G1](img/G1.png)
 
 Table 2. Accuracy by Participants with Bootstrapped 95% CI
 ![Table 1](img/T2.png)
 
 Graph 2
+
 ![G2](img/G2.png)
 
 Proportion of Answer Based on Number of Properties compared to True Values
