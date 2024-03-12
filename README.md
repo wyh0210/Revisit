@@ -29,7 +29,7 @@ After conducting the survey, the collected data was organized and analyzed, and 
 
 ## Design Achievements
 
-截屏2024-03-12 16.45.59.png
+
 
 ## References
 
