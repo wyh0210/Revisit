@@ -14,17 +14,22 @@ This research conducts a scientific investigation to discover the best successfu
 
 ## Results
 
-Table 1. Accuracy by Chart Type with Bootstrapped 95% CI
-
-![image](https://github.com/wyh0210/Revisit/assets/145874479/e77c68b9-672e-4d46-85ad-086396820440)
-
 
 
 ## Technical Achievements
 Lorem ipsum doloret
 
 ## Design Achievements
-Lorem ipsum doloret
+
+We use D3 objects for the creation of four different graphs, bar chart, stacked chart, bubble and packed circle, where the first two are similar and the last two are similar, making it easier to compare and analyze the data at a later stage.
+
+After that we connect the four tables to Revisit, which contains two parts:
+
+"Cleveand Replication" - It includes authors' names and is described as an "Assignment 3: Replication of Cleaveland - McGill Experiment." There's also a link to view the source, suggesting it might be an open-source project or that the experiment details are accessible for review.
+
+"HTML as a Stimulus" - Authored by the reVISIT Team, this seems to be a simple demonstration of using HTML as a stimulus in an experiment, potentially involving D3 visualizations. D3 (or D3.js) is a JavaScript library for producing dynamic, interactive data visualizations in web browsers. There's also a "View source" link for this experiment.
+
+After conducting the survey, the collected data was organized and analyzed, and the data results were visualized in Jupyter.
 
 ## References
 Lorem ipsum doloret
