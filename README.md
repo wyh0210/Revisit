@@ -45,7 +45,20 @@ After conducting the survey, the collected data was organized and analyzed, and 
 
 ## Design Achievements
 
+We connect the four charts to revisit developments and click the first button to proceed with our study.
 ![R1](img/R1.png)
+
+After entering the second page, you can see the introduction of our study, click next to carry out our study!
+![R2](img/R2.png)
+
+This page is an introduction to what we are learning about the percentage of smaller graphs to larger ones. Click NEXT to start our experiment!
+![R3](img/R3.png)
+
+This page shows four different graphs where the percentage of the graphs with black dots is calculated between the can fill in the answer on the left as you see fit.
+![R4](img/R4.png)
+
+This screen appears after all surveys have been completed!
+![R5](img/R5.png)
 
 ## References
 
