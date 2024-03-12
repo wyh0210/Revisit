@@ -14,7 +14,9 @@ This research conducts a scientific investigation to discover the best successfu
 
 ## Results
 
-![Table 1](img/R1.png)
+Table 1. Accuracy by Chart Type with Bootstrapped 95% CI
+![Table 1](img/T1.png)
+
 
 ## Technical Achievements
 We use D3 objects for the creation of four different graphs, bar chart, stacked chart, bubble and packed circle, where the first two are similar and the last two are similar, making it easier to compare and analyze the data at a later stage.
@@ -29,7 +31,7 @@ After conducting the survey, the collected data was organized and analyzed, and 
 
 ## Design Achievements
 
-
+![R1](img/R1.png)
 
 ## References
 
