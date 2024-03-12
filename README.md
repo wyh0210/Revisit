@@ -14,7 +14,14 @@ This research conducts a scientific investigation to discover the best successfu
 
 ## Results
 
-*error bar graph
+Table 1. Accuracy by Chart Type with Bootstrapped 95% CI
+chart_type	accuracy	lower	upper	error_lower	error_upper
+bubbleChart	3.280	3.055	3.492	0.225	0.211
+stackedbarChart	2.927	2.719	3.122	0.209	0.195
+packCircle	2.760	2.515	2.986	0.246	0.225
+barChart	1.566	1.258	1.865	0.308	0.299
+![image](https://github.com/wyh0210/Revisit/assets/145874479/bd1d686f-e215-4dc3-82a4-ee03f047c20f)
+
 
 ## Technical Achievements
 Lorem ipsum doloret
